@@ -22,4 +22,4 @@ The Drone Pursuit Tracking Project (SkyPro) is an AI-powered system designed to 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/shazilfkhan/drone-pursuit-tracking.git
+   git clone https://github.com/shazil343/drone-pursuit-tracking.git
